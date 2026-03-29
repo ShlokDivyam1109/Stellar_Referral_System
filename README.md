@@ -121,6 +121,13 @@ Returns the global statistics of the referral system — total referrals created
 
 ---
 
+## Screenshots
+<img width="1872" height="907" alt="image" src="https://github.com/user-attachments/assets/9e26b005-f131-4277-87e1-7982892487a9" />
+<img width="1882" height="907" alt="image" src="https://github.com/user-attachments/assets/1e475932-e7fa-46de-a99e-3759d31718ee" />
+<img width="1872" height="317" alt="image" src="https://github.com/user-attachments/assets/2fd9d692-7439-4c41-8638-64a8d286c9af" />
+
+#### Screen Recording Link: https://drive.google.com/file/d/18G7q1B0jbpCHcDYBASq0RbFV-ERKINFt/view?usp=sharing
+
 ## Contract Deployment Details:
 Contract ID: CBKB7XK5BR2SXAQ6OXDCI7U3VLYZO4ZUR32I63AMKRQRZ5ARSL6TT23L
 <img width="1899" height="908" alt="Screenshot 2026-03-29 153415" src="https://github.com/user-attachments/assets/d91b89f5-3ea1-4c6a-8d8a-e60bf79c363f" />
